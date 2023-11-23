@@ -1,5 +1,5 @@
 # Quiz-Application-using-MySQL
-Quiz Application | Python | Tkinter | MySQL Database
+# Quiz Application | Python | Tkinter | MySQL Database
 
 Install the MySQLdb library
 
