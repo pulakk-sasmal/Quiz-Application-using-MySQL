@@ -4,6 +4,8 @@ from tkinter import messagebox
 import hashlib
 import random
 
+
+
 class MainWindow:
 
     def __init__(self, master):
